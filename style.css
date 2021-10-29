@@ -4,6 +4,7 @@
 body {
   margin: 32px;
 }
-div {
+.languages,
+.form-control {
   margin: 8px;
 }
